@@ -1,1 +1,1 @@
-# C-or-C++-programming-practices
+# C or C++ programming practices
